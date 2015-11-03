@@ -1,5 +1,7 @@
 <?php
 
+namespace Alexxwiz;
+
 class TinySSI {
 
     private $vars = [];
