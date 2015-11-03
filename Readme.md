@@ -1,4 +1,4 @@
-# tiny-ssi-php
+# tiny-ssi
 
 A minimal implementation of Apache SSI (server-side includes) for PHP 5.4+
 

@@ -3,7 +3,7 @@
   "type": "library",
   "description": "Tiny SSI - very small Server Side Includes parser",
   "homepage": "https://github.com/alexxwiz/tiny-ssi-php",
-  "keywords": ["markdown"],
+  "keywords": ["ssi"],
   "license": "MIT",
   "authors": [
     {
