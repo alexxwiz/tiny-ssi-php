@@ -22,10 +22,5 @@
   },
   "autoload": {
     "psr-0": { "Alexxwiz": "" }
-  },
-  "extra": {
-    "branch-alias": {
-      "dev-lib": "1.0.0"
-    }
   }
 }
